@@ -21,8 +21,8 @@ This Project is an attempt at creating a Machine Learning model to assist in the
 ### 2. Data Understanding
 - We have the understanding of the features (i.e. independent variables) and predictors (i.e. dependent variables)
 - The data is a mix of categorical and numeric variables.
-![Data_understanding_pt1.png](./presentation_images/Data_understanding_pt1.png)
-![Data_understanding_pt2.png](./presentation_images/Data_understanding_pt2.png)
+![Data_understanding_pt1.png](./presentation_images/Data_understanding_pt_1.png)
+![Data_understanding_pt2.png](./presentation_images/Data_understanding_pt_2.png)
 
 
 ### 3. Data Preparation
