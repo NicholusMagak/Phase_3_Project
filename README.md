@@ -19,7 +19,7 @@ This Project is an attempt at creating a Machine Learning model to assist in the
 - Creating of a model that can predict seasonal flu vaccined people and vice versa.
 
 ### 2. Data Understanding
-![](./presentation\images/Data\understanding\pt1)
+![Data\understanding\pt1.png](./presentation\images/Data\understanding\pt1.png)
 - We have the understanding of the features (i.e. independent variables) and predictors (i.e. dependent variables)
 - The data is a mix of categorical and numeric variables.
 
